@@ -155,7 +155,7 @@ The model was supposed to take 4,000 iterations to complete, however, the rate o
 
 ## Assumption and dependencies
 
-The user is assumed to have access to the ISICs dataset with colored images required for training, as well as its corresponding binary segmentation images.
+The user is assumed to have access to the ISICs dataset with colored images required for training, as well as its corresponding binary mask (Ground truth) images.
 
 **Dependencies:**
 

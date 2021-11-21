@@ -151,7 +151,7 @@ For multiple objects in the same image, this annotation is saved line-by-line fo
 
 The model was supposed to take 4,000 iterations to complete, however, the rate of decrease in loss is not very significant after 1000 iterations. The model is performing with similar precision even with 3000 fewer iterations which resulted in low training time (saving over 9 hours of compute time) and also there is less chance of it overfitting the data. Hence, the model was stopped pre-maturely just after 1100 iterations.
 
-**From the above chart, we can see that the average loss is 0.2545 and the mean average precision(mAP) is over 95% which is extremely good.**
+**From the above chart, we can see that the average loss is 0.2545 and the mean Average Precision(mAP) is over 95% which is extremely good.**
 
 ## Assumption and dependencies
 

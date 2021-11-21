@@ -65,7 +65,7 @@ For multiple objects in the same image, this annotation is saved line-by-line fo
 
 3. Download the pre-trained YOLO weights from darknet. It is trained on a coco dataset consisting of 80 classes.
 
-   ```
+   ```sh
    !wget https://pjreddie.com/media/files/darknet53.conv.74
    ```
 
@@ -143,7 +143,7 @@ For multiple objects in the same image, this annotation is saved line-by-line fo
 
 ![Summary](./Resources/Summary.JPG)
 
-**Chart (Loss in mAP vs Iteration number):**
+**Chart (Loss vs Iteration number):**
 
 ![Loss Chart](./Resources/chart_yolov3-custom.png)
 

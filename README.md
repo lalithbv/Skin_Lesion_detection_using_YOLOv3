@@ -2,7 +2,7 @@
 
 # Skin Lesion detection using YOLO
 
-This project deals with the detection of skin lesions within the ISICs dataset using YOLOv3 Object Detection with Darknet.
+This project deals with the detection of skin lesions within the ISICs dataset using *YOLOv3 Object Detection* with *Darknet* neural network framework.
 
 ![Predictions](./Resources/Predictions.gif)
 
